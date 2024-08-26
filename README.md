@@ -1,6 +1,3 @@
-Aqui está o README formatado para o projeto `botao-personalizado-com-javascript`:
-
-```markdown
 # Botão Personalizado com JavaScript
 
 ## Descrição
